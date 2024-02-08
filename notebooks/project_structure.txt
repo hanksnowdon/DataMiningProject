@@ -1,0 +1,11 @@
+
+1) EDA_file: EDA + strategy for feature engineering.
+After first iteration through features, do t-SNE for mapping into 2d and check clusters as a part of feature engineering.
+
+2) Preprocessing_file: Up/downsampling, Imputation, Scaling, new features.
+
+3) ML_training_validation_test: Testing different classification models with different parameters (through cross-validation)
+  and choice of the pest model (on test sample)
+
+4) Production_file: Ethics questions. Training of glass-box model and comparison of performance with the best full model.
+
