@@ -163,3 +163,4 @@ notebooks/.DS_Store
 *.iml
 dataset/gower10.npy
 dataset/sample_gower.gzip
+notebooks/res_model_rfc_up.pkl
