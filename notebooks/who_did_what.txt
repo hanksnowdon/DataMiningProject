@@ -1,0 +1,8 @@
+01_EDA.ipynb - Hank Snowdon
+02_01_Clustering.ipynb - Chris Tomaszkiewicz
+02_01_TSNE.ipynb - Sergey Bashkatov
+02_Preprocessing.ipynb - Sergey Bashkatov
+03_ML_training_validation_test.ipyb - Sergey Bashkatov
+04_ML_Production _final.ipynb - Austen Steinberg
+
+

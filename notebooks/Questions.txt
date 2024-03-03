@@ -1,5 +1,0 @@
-1) Make 'age' categorical variable
-cons: sklearn randomforest ineffective with sparse data
-
-2) Make 'wage_per_hour' categorical
-cons: sklearn randomforest ineffective with sparse data
